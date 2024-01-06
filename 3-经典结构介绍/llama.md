@@ -1,0 +1,1 @@
+LLaMa与普通的Transformer架构不同的地方，包括采用了前置了层归一化（Pre-normalization）并使用RMSNorm 归一化函数（Normalizing Function）、使用了旋转位置嵌入（RoPE）、激活函数由ReLU更换为SwiGLU，并且将self-attention改进为使用KV-Cache的Grouped Query，整体Transformer架构与GPT-2 类似。
