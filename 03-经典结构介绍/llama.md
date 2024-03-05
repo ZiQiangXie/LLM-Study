@@ -72,3 +72,5 @@ LLM360
 一个小模型的训练过程：https://github.com/DLLXW/baby-llama2-chinese
 
 另外一个训练过程：https://github.com/jiahe7ay/MINI_LLM
+
+LM Flow：https://github.com/OptimalScale/LMFlow
